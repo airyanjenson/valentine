@@ -22,4 +22,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "yes_page.html"; // Create a second simple HTML page for the 'Yes' result!
+    window.location.href = "yes_page.html"; // Create a second simple HTML page for the 'Yes' result! 
+}
