@@ -1,7 +1,17 @@
 <!DOCTYPE html>
-<html>
-<body style="background-color: #ffb6c1; text-align: center; padding-top: 100px; font-family: sans-serif;">
-    <h1>Yay! See you on the 14th! 🌹</h1>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3/l41lTfuxV6Zoopow8/giphy.gif" alt="Happy">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Will you be my Valentine? ❤️</h1>
+        <div class="buttons">
+            <button class="yes-button" onclick="handleYesClick()">Yes</button>
+            <button class="no-button" onclick="handleNoClick()">No</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
