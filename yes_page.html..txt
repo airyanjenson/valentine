@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yay!!!</title>
+    <style>
+        body {
+            background-color: #ffdae0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+        h1 { color: #d32f2f; font-size: 3rem; }
+        img { border-radius: 20px; max-width: 300px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Hehehehe I knew it! ❤️</h1>
+    <p>See you on the 14th!</p>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmZ3bmZ3bmZ3bmZ3/l41lTfuxV6Zoopow8/giphy.gif" alt="Happy Cat">
+</body>
+</html>

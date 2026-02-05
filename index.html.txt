@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: #ffb6c1; text-align: center; padding-top: 100px; font-family: sans-serif;">
+    <h1>Yay! See you on the 14th! 🌹</h1>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3/l41lTfuxV6Zoopow8/giphy.gif" alt="Happy">
+</body>
+</html>
