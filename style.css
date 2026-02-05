@@ -40,3 +40,23 @@ h1 {
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer; }
+``css
+/* Mobile-only adjustments */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2rem; /* Slightly smaller text so it fits on screen */
+        padding: 0 10px; /* Adds breathing room on the sides */
+    }
+
+    .buttons {
+        flex-direction: column; /* Stack buttons vertically on phone */
+        width: 100%;
+    }
+
+    .yes-button, .no-button {
+        font-size: 22px; /* Bigger text */
+        padding: 20px;   /* Fatter buttons for thumbs */
+        width: 90%;      /* Make them stretch across the screen */
+        margin: 10px 0;  /* Space between the stacked buttons */
+    }
+}
